@@ -24,4 +24,5 @@ Copy code
 ./user_creation_script.sh user.txt admin@123
 💡 Script in Action:
 Handles edge cases (e.g., invalid usernames or existing accounts).
+
 Adds secure sudoer configurations for each user.
